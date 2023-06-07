@@ -309,7 +309,7 @@ Publish the website in the given URL.
 </html>
 ```
 
-# OUTPUT:-
+# OUTPUT :-
 
 ## Home Page :
 
