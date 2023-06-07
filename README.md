@@ -321,7 +321,7 @@ Publish the website in the given URL.
 
 ## People Page :
 
-![image](https://github.com/Hariharanashok/productcompanywebsite/assets/120353431/69ce818d-c8b9-433b-bf98-cc44b838e96f)
+![image](https://github.com/Hariharanashok/productcompanywebsite/assets/120353431/85d6229b-d11d-40b3-bf9d-b88167dcc211)
 
 ## Contact Us Page :
 
